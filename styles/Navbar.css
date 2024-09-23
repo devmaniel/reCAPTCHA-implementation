@@ -1,0 +1,13 @@
+nav{
+    font-size: 1.2em;
+    color: white;
+}
+
+.active-links{
+    font-weight: 900;
+    color: #E0012C;
+}
+
+.social-links a{
+    color: #E0012C;
+}
