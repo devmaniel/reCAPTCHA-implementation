@@ -131,8 +131,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <img src="./public/images/t1-lol-worlds2-2023.jpg" alt="" class="h-full w-full">
         </div>
         <div class="bg-loginform flex-1 bg-black px-10 p-10 flex flex-col justify-center text-white">
-            <h1 class="text-2xl font-bold tracking-wide">Contact Us</h1>
-            <p class="pt-5 border-[#E0012C] pb-5 border-b-2">Want to connect or contact the T1?</p>
+            <h1 class="text-2xl font-bold tracking-wide">Login</h1>
+            <p class="pt-5 border-[#E0012C] pb-5 border-b-2">Login your T1 Membership account</p>
 
 
             <form action="login.php" method="POST" class="flex gap-5 flex-col mt-5" id="contactForm">
